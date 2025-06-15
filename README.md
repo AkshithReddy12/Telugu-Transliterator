@@ -34,3 +34,20 @@ This project is a deep learning–based character-level transliteration system t
 
 ---
 
+## Steps to Run
+
+To set up the project locally, follow these steps:
+
+1. *Clone the repository*:
+   ```bash
+   git clone https://github.com/AkshithReddy12/telugu-transliterator
+   cd telugu-transliterator
+
+3. *Install Requirements*:
+   ```bash
+   pip install
+4. *Make sure dataset files are present in same path*:
+   
+5. *Run the notebook*:
+    
+    
