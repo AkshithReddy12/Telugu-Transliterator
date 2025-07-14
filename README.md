@@ -1,4 +1,4 @@
-# 🔤 Telugu to English Transliterator
+# Telugu to English Transliterator
 
 ## Overview
 
@@ -6,17 +6,17 @@ This project is a deep learning–based character-level transliteration system t
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔁 **Character-level Encoder-Decoder**: Handles each character individually for fine-grained transliteration.
-- 🧠 **Attention Mechanism**: Helps the decoder focus on relevant parts of the input sequence at each decoding step.
-- 📊 **Evaluation Metrics**: Supports accuracy calculation and visualization for model performance.
-- ✅ **Inference Mode**: Predict transliterations without ground truth during testing.
-- 📦 **Clean TensorFlow Implementation**: Easy-to-read, modular code built for learning and customization.
+- **Character-level Encoder-Decoder**: Handles each character individually for fine-grained transliteration.
+- **Attention Mechanism**: Helps the decoder focus on relevant parts of the input sequence at each decoding step.
+- **Evaluation Metrics**: Supports accuracy calculation and visualization for model performance.
+- **Inference Mode**: Predict transliterations without ground truth during testing.
+- **Clean TensorFlow Implementation**: Easy-to-read, modular code built for learning and customization.
 
 ---
 
-## 🧱 Architecture
+## Architecture
 
 - **Encoder**: GRU-based RNN that encodes the input Telugu sequence.
 - **Attention Layer**: Computes attention weights between encoder outputs and decoder state.
@@ -25,7 +25,7 @@ This project is a deep learning–based character-level transliteration system t
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - TensorFlow / Keras
